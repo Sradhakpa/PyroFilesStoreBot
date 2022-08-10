@@ -45,8 +45,10 @@ Also remember that developer will Delete Adult Contents from Database. So better
 
 [Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
 """
-	HOME_TEXT = """
-Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
+	HOME_TEXT = """𝐇𝐞𝐥𝐥𝐨 {}
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
-"""
+⚡𝑰 𝒂𝒎 𝑴𝒐𝒔𝒕 𝑽𝒆𝒓𝒔𝒂𝒕𝒊𝒍𝒆 𝑭𝒊𝒍𝒆 𝑺𝒕𝒐𝒓𝒆 𝑩𝒐𝒕 𝑶𝒇  @MCSTREAM1. 
+
+⚡Mᴀᴅᴇ Wɪᴛʜ Pʏᴛʜᴏɴ3 Wɪᴛʜ ❤️⚡
+
+⚡️𝐉𝐨𝐢𝐧 𝐍𝐨𝐰 : @MCSTREAM1"""
